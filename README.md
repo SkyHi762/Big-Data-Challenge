@@ -1,7 +1,7 @@
 # Big-Data-Challenge
 
 View Report Here:
-[Report][https://htmlpreview.github.io/?https://raw.githubusercontent.com/SkyHi762/Big-Data-Challenge/main/Team%20E%20-%20Final_Report.html]
+[Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SkyHi762/Big-Data-Challenge/main/Team%20E%20-%20Final_Report.html)
 
 Challenge in partnership with Rolls-Royce' R² Data Labs, the Emergent Alliance and others including Microsoft, Google Cloud, IBM.
 
